@@ -16,9 +16,9 @@ for (let i = 0; i > 5; i++) {
 }
 
 /* RISPOSTE ESERCIZIO 1 
-    1- questo codice stampa in console numeri all'infinito
+    1- questo codice stampa in console numeri all'infinito 
     2- no
-    3- si, perchè i cicli infinti creano dei problemi con il codice 
+    3- si perchè non entrerà mai nel ciclo perchè i è minore di 5 
 */
 
 //////////////////////////////////////////////////////////
